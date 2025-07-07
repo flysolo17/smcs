@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022910248044",
+    "project_id": "smcs-monitoring-system",
+    "storage_bucket": "smcs-monitoring-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022910248044:android:3c4009b3966528cb99d449",
+        "android_client_info": {
+          "package_name": "com.jmballangca.smcsmonitoringsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXcpTa6t6Bpc0OMzZ91Hzvbif2qnO1dUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
