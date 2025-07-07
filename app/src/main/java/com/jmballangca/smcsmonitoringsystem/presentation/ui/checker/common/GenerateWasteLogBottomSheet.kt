@@ -120,7 +120,7 @@ fun GenerateWasteLog(
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     Text("Amount", style = MaterialTheme.typography.titleMedium.copy(
-                  
+
                     ))
                     Text(
                         DEFAULT_AMOUNT.toPhp(), style = MaterialTheme.typography.titleMedium.copy(

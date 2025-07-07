@@ -11,7 +11,7 @@ data class LogState(
     val isLoading: Boolean = false,
     val isGeneratingReport : Boolean = false,
     val logs: List<WasteLog> = emptyList(),
-    val pageSize: Int = 10,
+    val pageSize: Int = 50,
     val user: User? = null,
     val startDate: Long = START_OF_YEAR,
     val endDate: Long = System.currentTimeMillis()
